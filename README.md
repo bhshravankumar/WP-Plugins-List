@@ -1,2 +1,2 @@
 # WP-Plugins-List
-Curated list of WordPress plugins by category
+To help WordPress users find the right plugins for their websites.
