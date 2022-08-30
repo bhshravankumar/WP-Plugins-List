@@ -1,7 +1,7 @@
 # WP Plugins List
 To help WordPress users find the right plugins for their websites.
 <hr/>
-# Categories List
+Categories List
 <table>
 <tr><th>Category Name</th><th>Link</th></tr>
 <tr><td>Page Builders</td><td></td></tr>
