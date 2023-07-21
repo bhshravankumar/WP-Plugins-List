@@ -1,7 +1,7 @@
 # WP Plugins List
 A curated list of amazingly awesome WordPress plugins.
 
-- [Antivirus & Antimallware](#antivirus&antimalware)
+- [Antivirus & Antimallware](#Antivirus&Antimalware)
 - [Firewall](#Firewall)
 - [Monitoring](#Monitoring)
 - [Security](#Security)
@@ -69,3 +69,8 @@ A curated list of amazingly awesome WordPress plugins.
 - [Page builders](#e-commerce)
 - [Variation swatches](#e-commerce)
 - [E-commerce](#e-commerce)
+
+
+## Antivirus&Antimalware
+
+* [Plugin Name](plugin URL) - Plugin description!
