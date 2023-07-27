@@ -1,4 +1,4 @@
-Welcome to our curated repository for WordPress plugins! This community-driven project aims to provide a list of WordPress plugins that enhance the functionality and performance of WordPress websites. Whether you're a seasoned developer, a WordPress enthusiast, or a beginner just getting started with WordPress, this repository will serve as a valuable resource for discovering plugins.
+Welcome to our curated repository for WordPress plugins! This community-driven project aims to provide a list of WordPress plugins that enhance the functionality and performance of WordPress websites.
 
 While we do our best to maintain the quality and security of listed plugins, we cannot guarantee their performance on every WordPress setup. It is always recommended to thoroughly test any plugin before deploying it on a production site. Additionally, as the WordPress ecosystem is constantly evolving, plugins may undergo changes over time.
 
