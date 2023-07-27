@@ -1,76 +1,348 @@
-# WP Plugins List
 A curated list of amazingly awesome WordPress plugins.
 
 - [Antivirus & Antimallware](#antivirusantimalware)
-- [Firewall](#Firewall)
-- [Monitoring](#Monitoring)
-- [Security](#Security)
-- [Redirection](#Redirection)
-- [Audio](#images-and-media-gallery)
-- [Video](#performance)
-- [Announcement](#e-commerce)
-- [Chat](#security-and-management)
-- [Feedback](#forms-and-modules)
-- [Forms](#widget)		
-- [QA & FAQs](#move-and-backup)
-- [Testimonials](#marketing)
-- [Helpdesk & Support](#google-analytics)
-- [Billing](#featured-plugins)
-- [Donation](#seo)
-- [Payment gateways](#dev-plugins)
-- [Translation](#custom-post-type)
-- [Exams & Quiz](#installer-and-generators)
-- [Food & Cooking](#images-and-media-gallery)
-- [Print & PDF](#performance)
-- [Realestate](#e-commerce)
-- [Search](#security-and-management)
-- [Yellowpages & Directory](#forms-and-modules)
-- [Polls](#widget)		
-- [Frontend Posting](#move-and-backup)
-- [Rating & Voting](#marketing)
-- [Shortcodes](#google-analytics)
-- [Related posts](#featured-plugins)
-- [Landingpages](#seo)
-- [Menus](#dev-plugins)
-- [Pagination](#custom-post-type)
-- [Sidebar](#installer-and-generators)
-- [AdminUI](#images-and-media-gallery)
-- [Backup](#performance)
-- [Database](#e-commerce)
-- [Custom fields](#security-and-management)
-- [Custom post types](#forms-and-modules)
-- [Forums](#widget)		
-- [Community](#move-and-backup)
-- [Login & Signup](#marketing)
-- [Memberships](#google-analytics)
-- [User roles](#featured-plugins)
-- [Newsletters](#seo)
-- [Email marketing](#dev-plugins)
-- [Maps](#custom-post-type)
-- [Weather](#installer-and-generators)
-- [Analytics](#images-and-media-gallery)
-- [SEO](#performance)
-- [Speed optimization](#e-commerce)
-- [Sitemap](#security-and-management)
-- [Ad management](#forms-and-modules)
-- [Affiliation](#widget)		
-- [Popup](#move-and-backup)
-- [Surveys](#marketing)
-- [Comment systems](#google-analytics)
-- [Appoinments](#featured-plugins)
-- [Calendar](#seo)
-- [Event Management](#dev-plugins)
-- [Slider & Slideshow](#custom-post-type)
-- [Photo optimization](#installer-and-generators)
-- [Photo gallery](#images-and-media-gallery)
-- [Social login](#performance)
-- [Funnels](#e-commerce)
-- [Abandoned cart](#e-commerce)
-- [Page builders](#e-commerce)
-- [Variation swatches](#e-commerce)
-- [E-commerce](#e-commerce)
+- [Firewall](#firewall)
+- [Monitoring](#monitoring)
+- [Security](#security)
+- [Redirection](#redirection)
+- [Audio](#audio)
+- [Video](#video)
+- [Announcement](#announcement)
+- [Chat](#chat)
+- [Feedback](#feedback)
+- [Forms](#forms)		
+- [QA & FAQs](#qafaqs)
+- [Testimonials](#testimonials)
+- [Helpdesk & Support](#helpdesksupport)
+- [Billing](#billing)
+- [Donation](#donation)
+- [Payment gateways](#paymentgateways)
+- [Translation](#translation)
+- [Exams & Quiz](#examsquiz)
+- [Food & Cooking](#foodcooking)
+- [Print & PDF](#printpdf)
+- [Realestate](#realestate)
+- [Search](#search)
+- [Yellowpages & Directory](#yellowpagesdirectory)
+- [Polls](#polls)		
+- [Frontend Posting](#frontendposting)
+- [Rating & Voting](#ratingvoting)
+- [Shortcodes](#shortcodes)
+- [Related posts](#relatedposts)
+- [Landingpages](#landingpages)
+- [Menus](#menus)
+- [Pagination](#pagination)
+- [Sidebar](#sidebar)
+- [AdminUI](#adminui)
+- [Backup](#backup)
+- [Database](#database)
+- [Custom fields](#customfields)
+- [Custom post types](#customposttypes)
+- [Forums](#forums)		
+- [Community](#community)
+- [Login & Signup](#loginsignup)
+- [Memberships](#memberships)
+- [User roles](#userroles)
+- [Newsletters](#newsletters)
+- [Email marketing](#emailmarketing)
+- [Maps](#maps)
+- [Weather](#weather)
+- [Analytics](#analytics)
+- [SEO](#seo)
+- [Speed optimization](#speedoptimization)
+- [Sitemap](#sitemap)
+- [Ad management](#admanagement)
+- [Affiliation](#affiliation)		
+- [Popup](#popup)
+- [Surveys](#surveys)
+- [Comment systems](#commentsystems)
+- [Appoinments](#appointments)
+- [Calendar](#calendar)
+- [Event Management](#eventmanagement)
+- [Slider & Slideshow](#sliderslideshop)
+- [Photo optimization](#photooptimization)
+- [Photo gallery](#photogallery)
+- [Social login](#sociallogin)
+- [Funnels](#funnels)
+- [Abandoned cart](#abandonedcart)
+- [Page builders](#pagebuilders)
+- [Variation swatches](#variationswatches)
+- [E-commerce](#ecommerce)
+- [Broken link checker](#brokenlinkchecker)
 
 
 ## Antivirus&Antimalware
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Firewall
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Monitoring
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Security
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Redirection
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Audio
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Video
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Announcement
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Chat
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Feedback
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Forms
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## QA&FAQS
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Testimonials
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Helpdesk & Support
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Billing
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Donation
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Payment gateways
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Translation
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Exams and quiz
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Food and cooking
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Print and pdf
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Realestate
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Search
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Yellowpages and directory
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Polls
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Frontend posting
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Rating and voting
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Shortcodes
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Related posts
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Landing pages
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Menus
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Pagination
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Sidebar
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## AdminUI
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Backup
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Database
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Custom fields
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Custom post type
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Forums
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Community
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Login and signup
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Memberships
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Userroles
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Newsletters
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Email marketing
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Maps
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Weather
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Analytics
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## SEO
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Speed optimization
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Sitemap
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Ad management
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Affiliation
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Popup
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Surveys
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Comment systems
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Appointments
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Calendar
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Event management
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Slider and slideshow
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Photo optimization
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Photo gallery
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Antivirus&Antimalware
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Social login
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Funnels
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Abandoned cart
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Page builder
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## E-Commerce
+
+* [Plugin Name](plugin URL) - Plugin description!
+
+## Broken link checker
 
 * [Plugin Name](plugin URL) - Plugin description!
